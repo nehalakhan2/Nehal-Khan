@@ -1,8 +1,15 @@
 **This is bold text**
 
-#Hello my name is Nehal Khan
-##I am currently enrolled at University of Toronto in Mississauga.
-###It is in Mississauga.
+# Hello my name is Nehal Khan
+## I am currently enrolled at University of Toronto in Mississauga.
+### It is in Mississauga.
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
 
 First Header | Second Header
 ------------ | -------------
